@@ -83,7 +83,7 @@ export default function Gallery() {
             onClick={() => openModal(image)}
           >
             <Image
-              src={`/achievement/${image.id}.jpg`}
+              src={`achievement/${image.id}.jpg`}
               alt={image.id}
               layout="responsive"
               width={300}
