@@ -35,7 +35,7 @@ export const Navbar = () => {
                   <span className="flex items-center space-x-2 text-2xl font-medium text-rose-500 dark:text-gray-100">
                     <span>
                       <Image
-                        src="/logoD.jpg"
+                        src="logoD.jpg"
                         alt="N"
                         width="64"
                         height="64"
