@@ -56,7 +56,7 @@ export default function HeroSection() {
       >
         <div className="w-full">
           <Image
-            src="/dhome.png"
+            src="dhome.png"
             width={1200}
             height={1200}
             className="object-cover"
