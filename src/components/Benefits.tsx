@@ -12,7 +12,7 @@ const benefitsData = {
   title: "บริการของเรา",
   desc: "เรามีบริการที่หลากหลายและครบครันเพื่อให้คุณมั่นใจในการก่อสร้างและการออกแบบบ้านของคุณ",
   image: {
-    src: "/home_ex1.jpg",
+    src: "home_ex1.jpg",
   },
   bullets: [
     { title: "ฟรีออกแบบโดยสถาปนิค", icon: <FaCheckCircle /> },
